@@ -1,6 +1,5 @@
 ### Henlo 👋
 
-<!--
 I'm [@artnoi](https://twitter.com/artnoi).
 
 > 🎓 I went to a business school, but work as a self-taught back-end developer.
@@ -30,4 +29,3 @@ My first working "code" is [a bash script](https://gitlab.com/artnoi/unix/-/blob
 - #️⃣ [csc](https://github.com/artnoi43/csc) - a simple CLI tool to generate checksum, with optional comparison.
 
 - 🔤 [cases](https://github.com/artnoi43/cases) a simple CLI tool that just convert its CLI argument to 2 strings, one uppercased and the other lowercased. I know, right?
--->
