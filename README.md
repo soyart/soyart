@@ -1,14 +1,8 @@
 ### Henlo 👋
 
-I'm [@artnoi](https://twitter.com/artnoi).
+I'm [@artnoi](https://twitter.com/artnoi). Read my blog on [artnoi.com](https://artnoi.com)
 
 > 🎓 I went to a business school, but work as a self-taught back-end developer.
-
-Before I taught myself how to code, I was a Linux geek 🐧. After getting comfortable with Linux, I experiment with BSDs.
-
-Messing around with UNIX helped me understand how modern computers work a lot.
-
-This knowledge builded up until one day I thought well, perhaps I could use some programming to solve this problem instead of using existing solution.
 
 **My language of choice is Go, though I also intend to learn Rust.**
 
