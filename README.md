@@ -20,6 +20,6 @@ I love these 2 languages because their design and trade-offs seem *right* (for a
 
 - #️⃣ [csc](https://github.com/artnoi43/csc) - a simple CLI tool to generate checksum, with optional comparison.
 
-- 🔤 [cases](https://github.com/artnoi43/cases) a simple CLI tool that just prints the uppercased/lowercased versions of CLI argument
+- 🔤 [cases](https://github.com/artnoi43/cases) a simple CLI tool that just prints the uppercased/lowercased versions of given CLI arguments.
 
 Apart from a "program", there's also a [collection of shell scripts](https://gitlab.com/artnoi/unix). These scripts were the first code I wrote.
