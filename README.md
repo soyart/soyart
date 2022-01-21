@@ -10,7 +10,7 @@ I love these 2 languages because their design and trade-offs seem *right* (for a
 
 ### Personal projects me and my friends find useful
 
-- 🔒 [gfc](https://github.com/artnoi43/gfc) - my first working program in Go! It is used to encrypt/decrypt with AES256-GCM, AES256-CTR, and RSA OAEP SHA256.
+- 🔒 [gfc](https://github.com/artnoi43/gfc) - my first working program in Go! It is used to encrypt/decrypt with AES256 or RSA.
 
 - 💰 [FnGoBot](https://github.com/artnoi43/fngobot) - a Telegram chat bot for tracking/alerting prices from financial markets.
 
