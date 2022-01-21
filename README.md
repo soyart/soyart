@@ -16,7 +16,7 @@ I love these 2 languages because their design and trade-offs seem *right* (for a
 
 ### Small useful programs for devs
 
-- 💻 [rd.js](https://gitlab.com/artnoi/unix/-/blob/main/utils/bin/rd.js) - a CLI JavaScipt snippet that use macOS Disk Utility.app (`diskutil`) to create a ramdisk. Perfect for Linuxers who use `/tmp` all the time!
+- 💻 [rd.js](https://gitlab.com/artnoi/unix/-/blob/main/utils/bin/rd.js) - a CLI JavaScipt snippet that use macOS Disk Utility.app (`diskutil`) to create a ramdisk.
 
 - #️⃣ [csc](https://github.com/artnoi43/csc) - a simple CLI tool to generate checksum, with optional comparison.
 
