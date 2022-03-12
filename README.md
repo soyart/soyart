@@ -14,6 +14,8 @@ I love these 2 languages because their design and trade-offs seem *right* (for a
 
 - 🔒 [gfc](https://github.com/artnoi43/gfc) - my first Go code! This CLI program is used to encrypt/decrypt with AES256 or RSA.
 
+- 💩 [stubborn](https://github.com/artnoi43/stubborn) - a caching DoH (DNS-ver-HTTPS) resolver, with extra Redis support to make it all slower!
+
 ### Small useful programs for devs
 
 - 💻 [rd.js](https://gitlab.com/artnoi/unix/-/blob/main/utils/bin/rd.js) - a CLI JavaScipt snippet that use macOS Disk Utility.app (`diskutil`) to create a ramdisk.
