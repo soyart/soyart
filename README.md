@@ -6,7 +6,7 @@ I'm [@artnoi](https://twitter.com/artnoi). Read my blog on [artnoi.com](https://
 
 **My language of choice is Go, though I also intend to learn Rust.**
 
-I love these 2 languages because their design and trade-offs seem *right* (for a noob dev), although the first language I "tried" to learn was Swift.
+I love these 2 languages because their design and trade-offs seem *right* (for a noob dev), although the first language I actually "tried" to learn was Swift.
 
 ### Personal projects me and my friends find useful
 
