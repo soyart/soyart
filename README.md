@@ -2,7 +2,7 @@
 
 I'm [@artnoi](https://twitter.com/artnoi). Read my blog on [artnoi.com](https://artnoi.com). I currently work at [Cleverse](https://cleverse.com) as a software engineer, developing its dApp projects.
 
-> 🎓 I went to a business school, majoring in finance, but decided to get a job in tech.
+> 🎓 I went to a business school, but found job in tech.
 
 **My language of choice is Go, though I also intend to learn Rust.**
 
