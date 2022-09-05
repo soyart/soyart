@@ -4,15 +4,15 @@ I'm [@artnoi](https://twitter.com/artnoi). Read my blog on [artnoi.com](https://
 
 > 🎓 I went to a business school, but found job in tech.
 
-**My language of choice is Go, though I also intend to learn Rust.**
-
-I love these 2 languages because their design and trade-offs seem *right* (for a noob dev), although the first language I actually "tried" to learn was Swift.
+I can program in Go, Rust, JS/TS, as well as Python and Bash (if that counts).
 
 ### Personal projects me and my friends find useful
 
-- 💰 [FnGoBot](https://github.com/artnoi43/fngobot) - a Telegram chat bot for tracking/alerting prices from financial markets.
+- 🔒 [gfc](https://github.com/artnoi43/gfc) - my first Go code! This CLI program is used to encrypt/decrypt with AES256, (X)ChaCha20-Poly1305, and RSA.
 
-- 🔒 [gfc](https://github.com/artnoi43/gfc) - my first Go code! This CLI program is used to encrypt/decrypt with AES256 or RSA.
+- 🛠️ [gsl][https://github.com/artnoi43/gsl] - gsl is short for Go Soylib. Yes, it is a stupid *library* where I put in code that I expect might be useful tomorrow.
+
+- 💰 [FnGoBot](https://github.com/artnoi43/fngobot) - a Telegram chat bot for tracking/alerting prices from financial markets.
 
 - 💩 [stubborn](https://github.com/artnoi43/stubborn) - a caching DoH (DNS-ver-HTTPS) resolver, with extra Redis support to make it all slower!
 
