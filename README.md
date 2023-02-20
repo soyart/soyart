@@ -4,13 +4,17 @@ I'm [@artnoi](https://twitter.com/artnoi). Read my blog on [artnoi.com](https://
 
 > 🎓 I went to a business school, but found job in tech.
 
-I can program in Go, Rust, JS/TS, as well as Python and Bash (if that counts).
+My first ever _language_ was the UNIX shell. After learning actual programming, I just code in newer compiled languages like Go or Rust because of better tooling and developer experience, although I had written code in Python and JavaScript-family before.
 
 ### Personal projects me and my friends find useful
 
+- 🤓 [soytrie](https://github.com/artnoi43/soytrie) - a Rust trie library backed by standard library `HashMap`. It's a spin-off from [actix-drop](https://github.com/artnoi43/actix-drop).
+
+- 📝 [actix-drop](https://github.com/artnoi43/actix-drop) - a Rust back-end for storing byte clipboards. It supports basic HTML front-end, or JSON/plain text requests and responses. Now, only HTTP is supported, although I plan to add TCP support as well.
+
 - 🔒 [gfc](https://github.com/artnoi43/gfc) - my first Go code! This CLI program is used to encrypt/decrypt with AES256, (X)ChaCha20-Poly1305, and RSA.
 
-- 🛠️ [gsl][https://github.com/artnoi43/gsl] - gsl is short for Go Soylib. Yes, it is a stupid *library* where I put in code that I expect might be useful tomorrow.
+- 🛠️ [gsl](https://github.com/artnoi43/gsl) - gsl is short for Go Soylib. Yes, it is a stupid *library* where I put in code that I expect might be useful tomorrow.
 
 - 💰 [FnGoBot](https://github.com/artnoi43/fngobot) - a Telegram chat bot for tracking/alerting prices from financial markets.
 
