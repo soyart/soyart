@@ -1,26 +1,48 @@
 ### Henlo 👋
 
-I'm Prem Phansuriyanon. Read my blog on [artnoi.com](https://artnoi.com). I currently work at [Cleverse](https://cleverse.com) as a software engineer, developing its dApp projects.
+I'm Prem Phansuriyanon:
 
-> 🎓 I went to a business school, but found job in tech.
+- a back-end dev by trade
 
-My first ever _language_ was the UNIX shell. After learning actual programming, I just code in newer compiled languages like Go or Rust because of better tooling and developer experience, although I had written code in Python and JavaScript-family before.
+- really passionate about re-inventing the wheel
+
+- use what I write
+
+- love to share my shitty code projects to the world
 
 ### Personal projects me and my friends find useful
 
-- 🤓 [soytrie](https://github.com/soyart/soytrie) - a Rust trie library backed by standard library `HashMap`. It's a spin-off from [actix-drop](https://github.com/soyart/actix-drop).
+- 🛠️ [ALI](https://github.com/soyart/ali) and [ali-rs](https://github.com/soyart/ali-rs)
 
-- 📝 [actix-drop](https://github.com/soyart/actix-drop) - a Rust back-end for storing byte clipboards. It supports basic HTML front-end, or JSON/plain text requests and responses. Now, only HTTP is supported, although I plan to add TCP support as well.
+  ALI is an Declarative Arch Linux installer spec (think cloud-init), and ali-rs is the Rust implementation.
 
-- 🔒 [gfc](https://github.com/soyart/gfc) - my first Go code! This CLI program is used to encrypt/decrypt with AES256, (X)ChaCha20-Poly1305, and RSA.
+- 🤓 [soytrie](https://github.com/soyart/soytrie)
 
-- 🔒 [rfc](https://github.com/soyart/rfc) - gfc clone, in Rust
+  A Rust trie library backed by standard library `HashMap`. It's a spin-off from [actix-drop](https://github.com/soyart/actix-drop).
 
-- 🛠️ [gsl](https://github.com/soyart/gsl) - gsl is short for Go Soylib. Yes, it is a stupid *library* where I put in code that I expect might be useful tomorrow.
+- 📝 [actix-drop](https://github.com/soyart/actix-drop)
 
-- 💰 [FnGoBot](https://github.com/soyart/fngobot) - a Telegram chat bot for tracking/alerting prices from financial markets.
+  A Rust back-end for storing byte clipboards. It supports basic HTML front-end, or JSON/plain text requests and responses. Now, only HTTP is supported, although I plan to add TCP support as well.
 
-- 💩 [stubborn](https://github.com/soyart/stubborn) - a caching DoH (DNS-ver-HTTPS) resolver, with extra Redis support to make it all slower!
+- 🔒 [gfc](https://github.com/soyart/gfc)
+
+  My first actual program! This CLI program is used to encrypt/decrypt with AES256, (X)ChaCha20-Poly1305, and RSA.
+
+- 🔒 [rfc](https://github.com/soyart/rfc)
+
+  A Rust gfc clone
+
+- 🛠️ [gsl](https://github.com/soyart/gsl)
+
+  gsl is short for Go Soylib. Yes, it is a stupid *library* where I put in code that I expect might be useful tomorrow.
+
+- 💰 [FnGoBot](https://github.com/soyart/fngobot)
+
+  A Telegram chat bot for tracking/alerting prices from financial markets.
+
+- 💩 [stubborn](https://github.com/soyart/stubborn)
+
+  A caching DoH (DNS-ver-HTTPS) resolver, with extra Redis support to make it all slower!
 
 ### Small useful programs for devs
 
